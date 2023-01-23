@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Hola. Soy Lucas, un copywriter publicitario con vasta experiencia en agencias de publicidad, agiornado al mundo digital, en los últimos años como freelance me dediqué a las redes sociales, como community manager y marketing digital. A su vez en el último tiempo decidí (otra vez) acomodarme al hoy y dedicarme a la programación, y transformarme en un Desarrollador Python (Django) y Web (HTML, CSS y JavaScript). Mi intención es seguir aprendiendo y sumando conocimiento para poder trabajar en este mundo que descubrí y es muy apasionante.</h3>
+<h3 align="center">Hola. Soy Lucas, copywriter publicitario con +15 años de experiencia, adaptado al mundo digital, por eso desde fines del 2007 como freelance me he dedicado a las redes sociales, como community manager y marketing digital. Al mismo tiempo, desde el 2020/21 decidí (nuevamente) adaptarme a la actualidad y dedicarme a la programación, y así convertirme en Desarrollador Python (Django) y Web (HTML, CSS y JavaScript). Mi intención es seguir aprendiendo y sumando conocimientos para poder trabajar en este mundo que descubrí y es muy apasionante.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasger78&label=Profile%20views&color=0e75b6&style=flat" alt="lucasger78" /> </p>
 
