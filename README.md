@@ -1,6 +1,6 @@
-<img class="img-fluid" src="C:\Users\Contis\Desktop\MAJO PORFOLIO\Portfolio Majo\img/project-3(BA).jpg" alt="">
+<!-- <img align="center" src="https://drive.google.com/file/d/1EwbisAaYwcpffVmaLpNSKw9yRAOK5xM3/view?usp=sharing" alt="lucasger78" height="30" width="40" /> -->
 
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h2 align="center">Hi 👋, I'm Lucas</h2>
 <h3 align="center">Hola. Soy Lucas, copywriter publicitario con +15 años de experiencia, adaptado al mundo digital, por eso desde fines del 2007 como freelance me he dedicado a las redes sociales, como community manager y marketing digital. Al mismo tiempo, desde el 2020/21 decidí (nuevamente) adaptarme a la actualidad y dedicarme a la programación, y así convertirme en Desarrollador Python (Django) y Web (HTML, CSS y JavaScript). Mi intención es seguir aprendiendo y sumando conocimientos para poder trabajar en este mundo que descubrí y es muy apasionante.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasger78&label=Profile%20views&color=0e75b6&style=flat" alt="lucasger78" /> </p>
