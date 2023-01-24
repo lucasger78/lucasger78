@@ -1,3 +1,5 @@
+<img class="img-fluid" src="img/project-3(BA).jpg" alt="">
+
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Hola. Soy Lucas, copywriter publicitario con +15 años de experiencia, adaptado al mundo digital, por eso desde fines del 2007 como freelance me he dedicado a las redes sociales, como community manager y marketing digital. Al mismo tiempo, desde el 2020/21 decidí (nuevamente) adaptarme a la actualidad y dedicarme a la programación, y así convertirme en Desarrollador Python (Django) y Web (HTML, CSS y JavaScript). Mi intención es seguir aprendiendo y sumando conocimientos para poder trabajar en este mundo que descubrí y es muy apasionante.</h3>
 
