@@ -1,4 +1,4 @@
-<img src="https://github.com/lucasger78/lucasger78/blob/main/2PorLink_01.jpg" width="1200" style="max-width: 100%;">
+<img src="https://github.com/lucasger78/lucasger78/blob/main/2PorGithub_01.jpg" width="1200" style="max-width: 100%;">
 
 <h2 align="center">Hi 👋, I'm Lucas</h2>
 <h3 align="center">Hola. Soy Lucas, copywriter publicitario con +15 años de experiencia, adaptado al mundo digital, por eso desde fines del 2007 como freelance me he dedicado a las redes sociales, como community manager y marketing digital. Al mismo tiempo, desde el 2020/21 decidí (nuevamente) adaptarme a la actualidad y dedicarme a la programación, y así convertirme en Desarrollador Python (Django) y Web (HTML, CSS y JavaScript). Mi intención es seguir aprendiendo y sumando conocimientos para poder trabajar en este mundo que descubrí y es muy apasionante.</h3>
